@@ -14,13 +14,13 @@ A glassmorphism-inspired theme for the Omarchy Linux distribution. This theme ov
 You can install this theme directly via the Omarchy CLI using the repository URL:
 
 ```sh
-omarchy theme install <URL-to-this-repository>
+omarchy theme install https://github.com/soltros/omarchy-glassmorphism
 ```
 
 Alternatively, you can manually clone this repository into your Omarchy themes directory:
 
 ```sh
-git clone <URL-to-this-repository> ~/.config/omarchy/themes/glassmorphism
+git clone https://github.com/soltros/omarchy-glassmorphism ~/.config/omarchy/themes/glassmorphism
 omarchy theme set glassmorphism
 ```
 
