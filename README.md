@@ -1,5 +1,7 @@
 # Omarchy Glassmorphism Theme
 
+![Omarchy Glassmorphism](glassmorphism-theme.png)
+
 A glassmorphism-inspired theme for the Omarchy Linux distribution. This theme overrides default aesthetics to provide a unified frosted glass effect across the desktop, window manager, and status bar.
 
 ## Features
